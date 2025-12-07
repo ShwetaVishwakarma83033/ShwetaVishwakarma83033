@@ -11,8 +11,7 @@
 - Real-world problem solving with AI
 - Research & Analytics Projects
 
-## 🌱 I’m currently learning:
-- Jira
+## 🌱 Currently Learning:
 - Advanced Power BI & DAX
 - Machine Learning with Python
 - SQL optimization and analytics engineering
