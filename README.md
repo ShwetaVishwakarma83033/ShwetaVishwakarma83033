@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @ShwetaVishwakarma83033
 
 🔍 I'm an aspiring **Data Scientist** with hands-on experience in  
-**Data Analysis**, **Business Analytics**, **Machine Learning**, and **Research Projects**.
+**Data Analysis**, **Business Analytics**,**Power BI Developer**, **Machine Learning**, and **Research Projects**.
 
 🎓 MCA Graduate | 💼 Product Lead @ Omdena | 📊 Data Analytics Certified
 
@@ -23,7 +23,7 @@
 - AI for social good (Omdena-style projects)
 
 ## 💬 How to reach me:
-- 🌐 [My Portfolio](https://sites.google.com/view/shwetavishwakarma/home)
+- 🌐 [My Portfolio]((https://portfolio-five-roan-gkctv9l3tj.vercel.app/))
 - 📧 Email: shwetavishwakarma83033@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/shwetavishwakarma83033/)
 
