@@ -23,7 +23,7 @@
 - AI for social good (Omdena-style projects)
 
 ## 💬 How to reach me:
-- 🌐 [My Portfolio]((https://portfolio-five-roan-gkctv9l3tj.vercel.app/))
+- 🌐 [My Portfolio](https://portfolio-five-roan-gkctv9l3tj.vercel.app/)
 - 📧 Email: shwetavishwakarma83033@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/shwetavishwakarma83033/)
 
